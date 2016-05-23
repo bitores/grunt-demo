@@ -1,0 +1,22 @@
+{
+  "name": "grunt_demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "huangzhengjie <huangzhengjie@kuaiqiangche.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.2.0",
+    "angular": "angularjs#^1.5.5",
+    "jquery": "^2.2.4"
+  }
+}
